@@ -47,8 +47,8 @@ An AI coding agent that supports [Agent Skills](https://agentskills.io) — Clau
 
 ```bash
 # Install both skills
-npx skills add lhmoi/linkedin_profile_opt --skill linkedin-profile-opt
-npx skills add lhmoi/linkedin_profile_opt --skill linkedin-storytelling
+npx skills add luisimagiire/linkedin-optimization-skills --skill linkedin-profile-opt
+npx skills add luisimagiire/linkedin-optimization-skills --skill linkedin-storytelling
 ```
 
 ### Use
