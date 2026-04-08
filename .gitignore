@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Project source data (not part of the skill)
+data/
+*.mp3
+
+# Personal / client files
+luis_*
+notes.md
+skill_spec.md
+
+# Working documents (already copied into skills/)
+profile_optimization_roadmap.md
+client_pre-fill_form.md
+
+# Python project files (build tooling, not the skill)
+main.py
+pyproject.toml
+uv.lock
+.python-version
